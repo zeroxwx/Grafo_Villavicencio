@@ -1,0 +1,116 @@
+nodo1,nodo2,sendero,distancia,color,estimate
+Séptima Brigada,CasaToro Ford,rs,4.1,red,0
+CasaToro Ford,Los Fundadores,rs,2.1,blue,0
+Los Fundadores,Viva centro comercial,rs,0.6,green,0
+Séptima Brigada,Universidad Cooperativa de Colombia,rs,1.7,yellow,0
+Universidad Cooperativa de Colombia,Polideportivo La Rosita,rs,0.32,pink,0
+Universidad Cooperativa de Colombia,Corporación Universitaria Autónoma de Nariño - AUNAR,rs,2.8,violet,0
+Polideportivo La Rosita,Clinica de Salud Mental-La Confraternidad,rs,0.65,brown,0
+Clinica de Salud Mental-La Confraternidad,Cancha Sintética Sport Light,rs,0.75,orange,0
+Universidad Cooperativa de Colombia,Nuestra Señora de Lourdes,rs,0.75,magenta,0
+Nuestra Señora de Lourdes,Polideportivo Doña Luz,rs,0.45,gold,0
+Cancha Sintética Sport Light,Librería & Papelería Popular,rs,0.7,grey,0
+Librería & Papelería Popular,BTM COMPUTER,rc,0.5,red,0
+BTM COMPUTER,Megacolegio Silvia Aponte,rc,0.75,blue,0
+Megacolegio Silvia Aponte,Parque barrio Villa Melida,rc,0.45,green,0
+Parque barrio Villa Melida,Polideportivo Villamelida,rc,0.4,yellow,0
+Polideportivo Villamelida,Canchas sintéticas Gol de Yepes,rc,0.7,pink,0
+Canchas sintéticas Gol de Yepes,Lote Kirpas,rc,0.27,violet,0
+Canchas sintéticas Gol de Yepes,Parque Cavivir,rc,0.4,brown,0
+Lote Kirpas,cancha Acapulco,rc,0.45,orange,0
+cancha Acapulco,Polideportivo barrio La Sabana,rc,0.85,magenta,0
+Polideportivo barrio La Sabana,Parque La Carolina,rc,0.35,gold,0
+Parque La Carolina,Parque Del Barrio Villa Samper,rc,0.23,grey,0
+Parque Del Barrio Villa Samper,Parque Kirpas,rt,0.27,red,0
+Parque Kirpas,BARRIO ACAPULCO,rt,0.35,blue,0
+BARRIO ACAPULCO,Parque Las Malocas - Catama,rt,1.6,green,0
+Cancha Sintética Sport Light,BARRIO ACAPULCO,rt,1.9,yellow,0
+Parque Las Malocas - Catama,Barrio Rincon de las Marias,rt,0.85,pink,0
+Barrio Rincon de las Marias,Hotel Campestre El Campanario,rt,0.6,violet,0
+Hotel Campestre El Campanario,Conjunto LlanoAlto,rt,0.75,brown,0
+Conjunto LlanoAlto,Monumento flora de vida,rt,0.23,orange,0
+Conjunto LlanoAlto,Parque Pequeña Pony,rt,0.3,magenta,0
+Monumento flora de vida,Conjunto Cerrado Ciudad Salitre,rt,1.2,gold,0
+Monumento flora de vida,COMPLEJO DEPORTIVO BMX COVISAN,rt,1.7,grey,0
+Conjunto Cerrado Ciudad Salitre,Colegio Marco Antonio Franco Rodriguez,rh,0.55,red,0
+Hotel Campestre Navar City,CHATARRERIA MINCHO,rh,1.8,blue,0
+CHATARRERIA MINCHO,LA PAULINA,rh,1.1,green,0
+LA PAULINA,Iglesia MMM Sede Vencedores,rh,1.6,yellow,0
+LA PAULINA,FINCA LA NORTEÑA,rh,0.5,pink,0
+Iglesia MMM Sede Vencedores,Cancha Barrio Vencedores,rh,0.2,violet,0
+Cancha Barrio Vencedores,Barrio Topacio mi casa,rh,0.95,brown,0
+COMPLEJO DEPORTIVO BMX COVISAN,Hotel Campestre Navar City,rh,2.3,orange,0
+CHATARRERIA MINCHO,Hotel Deportivo y Recreativo Los Gemelos,rh,0.4,magenta,0
+Hotel Deportivo y Recreativo Los Gemelos,Villa Danny Villavicencio,rh,0.17,gold,0
+COMPLEJO DEPORTIVO BMX COVISAN,OKAVANGO La Esmeralda,rh,0.5,grey,0
+OKAVANGO La Esmeralda,Parque Habitacional La Esmeralda,rd,0.55,red,0
+Hotel Deportivo y Recreativo Los Gemelos,Parque Habitacional La Esmeralda,rd,0.6,blue,0
+Parque Habitacional La Esmeralda,ALTOS DE OKAVANGO,rd,0.55,green,0
+ALTOS DE OKAVANGO,Cancha Arena Portales del Llano,rd,0.7,yellow,0
+Cancha Arena Portales del Llano,Institucion Educativa Jorge Eliecer Gaitan Ayala Sede Atanacio Girardot,rd,0.8,pink,0
+Colegio Marco Antonio Franco Rodriguez,Institucion Educativa Jorge Eliecer Gaitan Ayala Sede Atanacio Girardot,rd,1.8,violet,0
+Institucion Educativa Jorge Eliecer Gaitan Ayala Sede Atanacio Girardot,Polideportivo Barrio Morichal,rd,0.45,brown,0
+Polideportivo Barrio Morichal,Accesorios la Bonita,rd,0.55,orange,0
+Colegio Marco Antonio Franco Rodriguez,IMMUNOCAL@WMB2019,rd,0.5,magenta,0
+Monumento flora de vida,IMMUNOCAL@WMB2019,rd,1.1,gold,0
+IMMUNOCAL@WMB2019,Francachela Pizza Parrilla,rd,0.4,grey,0
+OKAVANGO La Esmeralda,Iglesia Cristiana Pentecostes Del Movimiento Misionero Mundial Covisan,v,0.7,red,0
+Iglesia Cristiana Pentecostes Del Movimiento Misionero Mundial Covisan,Polideportivo Antonio Villavicencio,v,0.8,blue,0
+OKAVANGO La Esmeralda,Polideportivo Covisan,v,0.45,green,0
+Polideportivo Covisan,Delirio covisan,v,0.55,yellow,0
+LA PAULINA,ALTOS DE OKAVANGO,v,0.55,pink,0
+FINCA LA NORTEÑA,ARVILLANOS,v,0.25,violet,0
+ARVILLANOS,Parque Okavango,v,0.7,brown,0
+Parque Las Malocas - Catama,Campo Santo Papa Francisco - Misa Campal,v,1.3,orange,0
+Campo Santo Papa Francisco - Misa Campal,Parque maracos,v,0.85,magenta,0
+Parque maracos,Parcela el Palmar,v,0.65,gold,0
+Campo Santo Papa Francisco - Misa Campal,Hotel Italia,v,0.95,grey,0
+Parque maracos,Torres de Franciso,b,0.75,red,0
+Parque maracos,Asadero la Finquita Rodeo,b,0.65,blue,0
+Asadero la Finquita Rodeo,Torres de Franciso,b,0.9,green,0
+Parque maracos,Barrio San Carlos,b,0.5,yellow,0
+Barrio San Carlos,Polideportivo Antonio Villavicencio,b,0.65,pink,0
+Parcela el Palmar,Hogar geriatrico San Camilo,b,0.6,violet,0
+Hogar geriatrico San Camilo,BARRIO ACAPULCO,b,0.75,brown,0
+Barrio Topacio mi casa,Planta De Beneficio Agrotodo,b,1.1,orange,0
+Planta De Beneficio Agrotodo,Autoservicios Mecánicos,b,1.5,magenta,0
+Séptima Brigada,Universidad Santo Tomás Villavicencio,b,1.3,gold,0
+Universidad Santo Tomás Villavicencio,Centro Comercial UNICO Outlet Villavicencio - Tienda Virtual Outlet,b,1.6,grey,0
+Centro Comercial UNICO Outlet Villavicencio - Tienda Virtual Outlet,Monumento a las artes,hack,0.7,red,0
+Monumento a las artes,Corporacion Universitaria De Colombia IDEAS,hack,0.7,blue,0
+Corporacion Universitaria De Colombia IDEAS,AKT MOTOS Y REPUESTOS ALKOSTO,hack,1.1,green,0
+Viva centro comercial,Centro Comercial Villacentro,hack,1.1,yellow,0
+Centro Comercial Villacentro,Centro Comercial Unicentro Villavicencio,hack,1.3,pink,0
+Centro Comercial Unicentro Villavicencio,AKT MOTOS Y REPUESTOS ALKOSTO,hack,0.5,violet,0
+AKT MOTOS Y REPUESTOS ALKOSTO,Alimentos Concentrados Raza Centro De Distribucion,hack,0.7,brown,0
+Alimentos Concentrados Raza Centro De Distribucion,Grupo myl Empresarial Colombia - Villavicencio S.A.S,hack,0.65,orange,0
+Grupo myl Empresarial Colombia - Villavicencio S.A.S,Monumento Coleo,hack,0.5,magenta,0
+Autoservicios Mecánicos,Grupo myl Empresarial Colombia - Villavicencio S.A.S,hack,0.65,gold,0
+Monumento Coleo,ARENAS INDUSTRIALES DEL LLANO,hack,0.5,grey,0
+ARENAS INDUSTRIALES DEL LLANO,Alameda Caudal Oriental,w,0.7,red,0
+Alameda Caudal Oriental,Ranchón del Maporal - la Cantina - el Garden,w,1,blue,0
+Ranchón del Maporal - la Cantina - el Garden,Las Vegas Beer Villavicencio,w,1,green,0
+Las Vegas Beer Villavicencio,Corporacion Hogar Elim,w,1.8,yellow,0
+BARRIO ACAPULCO,Puente caño La Cuerera,w,0.85,pink,0
+Puente caño La Cuerera,RELLENO SANITARIO CLAUSURADO DON JUANITO,w,2.7,violet,0
+Parque Del Barrio Villa Samper,RELLENO SANITARIO CLAUSURADO DON JUANITO,w,1.8,brown,0
+Séptima Brigada,Cancha Sintética Tiro Libre,w,1,orange,0
+Cancha Sintética Tiro Libre,Cancha Sintetica Alzate,w,1.1,magenta,0
+Cancha Sintetica Alzate,CANCHA SINTETICA MUNDIALITO,w,1.1,gold,0
+CANCHA SINTETICA MUNDIALITO,Antiguo CAI vía Catama,w,0.45,grey,0
+Antiguo CAI vía Catama,CANCHAS SINTETICAS F7,g,0.8,red,0
+CANCHAS SINTETICAS F7,Parque Del Agua,g,1.4,blue,0
+Parque Del Agua,Alimentos Concentrados Raza Centro De Distribucion,g,1.4,green,0
+Cancha Sintetica Alzate,Terminal de Transportes de Villavicencio,g,0.4,yellow,0
+Terminal de Transportes de Villavicencio,Torres De La Pradera,g,1.1,pink,0
+Torres De La Pradera,Hotel Italia,g,0.75,violet,0
+Torres De La Pradera,Hiadica,g,0.6,brown,0
+Hotel Italia,Hiadica,g,0.5,orange,0
+Hiadica,Vida Sin Cancer,g,1,magenta,0
+Vida Sin Cancer,Fit Box Gym One - Gimansio de Crossfit,g,1.4,gold,0
+Fit Box Gym One - Gimansio de Crossfit,Antiguo CAI vía Catama,g,1.1,grey,0
+Fit Box Gym One - Gimansio de Crossfit,FIGURADORA PANAMERICANA,o,0.95,red,0
+FIGURADORA PANAMERICANA,Polideportivo Barrio Morichal,o,0.55,blue,0
+Cancha Sintética Tiro Libre,CARNES LA PIEL ROJA,0,0.55,yellow,0
+Cancha Sintética Tiro Libre,Desgasificadora Y Taller De Soldaduras Metalmecanicas Tecnitanques,o,0.55,green,0
+CARNES LA PIEL ROJA,Desgasificadora Y Taller De Soldaduras Metalmecanicas Tecnitanques,o,0.95,violet,0
